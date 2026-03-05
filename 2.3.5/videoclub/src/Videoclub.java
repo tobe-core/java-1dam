@@ -35,4 +35,17 @@ public class Videoclub {
             }
         }
     }
+
+    public void Devolver(String t) {
+        for (int i = 0; i < num_peliculas; i++) {
+            if (t.equals(listaPelicula[i].getTitulo())) {
+                if (listaPelicula[i].devolver()) {
+                    IO.println("Pelicula devuelta");
+                } else {
+                    IO.println("Lo siento, ...");
+                }
+                return;
+            }
+        }
+    }
 }
