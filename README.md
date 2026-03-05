@@ -1,6 +1,6 @@
 # Java 1DAM
 > [!NOTE]
-> Estos son los ejercicios de Java durante 1o DAM, organizado por tema. Los ejercicios en este repositorio son los más interesantes y los mejores para aprender.
+> These are the Java exercises for the first year of DAM (Digital Administration and Management), organized by topic. The exercises in this repository are the most interesting and the best for learning.
 
 > [!TIP]
-> Cada tema tendrá su propio .md en el que estará una lista de todos los ejercicios en el repositorio, los cuales estarán checkeados en caso de que estén terminados y correctos.
+> Each topic will have its own .md file containing a list of all the exercises in the repository, which will be checked to ensure they are completed and correct.
